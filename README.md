@@ -32,3 +32,5 @@ Although most of us don't really have to much experience in the data science fie
   The datasets given were open access and they also allowed us to use many other different sources of data if we wanted to
 </details>
 
+## Challenge choosing and brainstorming
+
