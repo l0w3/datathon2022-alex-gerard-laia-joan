@@ -10,7 +10,7 @@ Although most of us don't really have to much experience in the data science fie
   <summary>
     Accenture
   </summary>
-  This challenge presented by the consulting company "accenture" aimed to predict which orders could get to the customer later than expected so they could avoid that on a suply chain 🛻.
+  👉 This challenge 🔨 presented by the consulting company "accenture" aimed to predict which orders could get to the customer later ⌛ than expected so they could avoid that on a suply chain 📦.
 </details>
 
 <details>
