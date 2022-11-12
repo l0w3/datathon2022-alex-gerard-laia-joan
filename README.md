@@ -16,7 +16,7 @@ We are a team composed by freshman students from Data Science (Gerard, Joan and 
   <summary>
     Qualcomm
   </summary>
-  👉 After a really extense talk about Qualcomm's operations and fields of research, the presented problem.
+  👉 After a really extense talk about Qualcomm's operations and fields of research, the presented problem. <br />
   
   The problem was related to pin connection management and routes 🛤️. They explained how processors worked and how routes affed the consumption of the processors. The optimization of those routes adding a bus of signals instead of only one signal would make the trick, but we should know how to connect them in the most efficient way.
   
