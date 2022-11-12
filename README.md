@@ -17,9 +17,11 @@ Although most of us don't really have to much experience in the data science fie
   <summary>
     Qualcomm
   </summary>
-  👉 After a really extense talk about Qualcomm's operations and fields of research, the presented problem.
+  👉 After a really extense talk about Qualcomm's operations and fields of research, the presented problem.çi
+  
   
   The problem was related to pin connection management and routes 🛤️. They explained how processors worked and how routes affed the consumption of the processors. The optimization of those routes adding a bus of signals instead of only one signal would make the trick, but we should know how to connect them in the most efficient way.
+  
   
   We could not find this challenge appropiete for us since it was too technical to the few time we had (32 hours) although it was quite interesting.
 </details>
