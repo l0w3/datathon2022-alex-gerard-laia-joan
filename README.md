@@ -34,3 +34,7 @@ We are a team composed by freshman students from Data Science (Gerard, Joan and 
 
 ## Challenge choosing and brainstorming
 
+After considering Accenture's and AED's challenges, we decided to tackle Accenture's challenge due to being more restricted to an existing problem. We devided the tasks in a way we could all work at the same time on different things and be productive. The tasks were splitted in the following way:
+
+- Laia and Álex did some Feature Engineering, extracting interesting features from the many datasets we had and joining them to the one we considered to be the main one (orders.csv)
+- Gerard and Joan on the other hand started doing some plots and getting whitch data relations were the best 
