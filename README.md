@@ -53,6 +53,6 @@ We believe that more carefuly chosen training variables and also joining several
 
 Even though data having that nature, we could extract some insights (e.i 3rd party contributors and the weight of the parcel were significant to the parcel delay, but not correlated totally. Those were some of the graphs we generated to get those insights.
 
-<img src="https://github.com/AlexadeZ17/datathon2022-alex-gerard-laia-joan/edit/master/visuals/grafic.jpg"
+<img src="https://raw.githubusercontent.com/AlexadeZ17/datathon2022-alex-gerard-laia-joan/master/visuals/grafic.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
