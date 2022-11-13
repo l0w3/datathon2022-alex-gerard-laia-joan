@@ -37,4 +37,16 @@ We are a team composed by freshman students from Data Science (Gerard, Joan and 
 After considering Accenture's and AED's challenges, we decided to tackle Accenture's challenge due to being more restricted to an existing problem. We devided the tasks in a way we could all work at the same time on different things and be productive 👷. The tasks were splitted in the following way:
 
 - Laia and Álex did some Feature Engineering, extracting interesting features from the many datasets we had and joining them to the one we considered to be the main one (orders.csv)📉.
-- Gerard and Joan on the other hand started doing some plots and getting whitch data relations were the best📊.
+- Gerard and Joan on the other hand started doing some plots and getting which data relations were the best📊.
+
+## Procedure
+
+When making the code to solve the problem, we found several difficulties. One of them beeing the data cleaning and preprocessing process, where we had to handle cathegorical values, NaNs and also join data from many different datasets that were not sorted in the same way the main one (orders.csv) was.
+
+After that data cleaning was done, we built a model to predict the likelyhood of a parcel arriving late⏱️.
+
+## Conclusions
+
+After an in-depth analysis of the results, we got to the conclusion that given the nature of the data, predictions with that data "as it is" with the True and False labels counts being equal would not produce a well fitted model (Giving scores of about 20% of accuracy). If we used the whole dataset (>87000 False labels and < 28000 True labels) produced an overfitted model, giving a 70% of accuracy but always ansering the same (False).
+
+We believe that more carefuly chosen training variables and also joining several of them together would produce a better model, but individually, the produced model gives poor results.
