@@ -22,6 +22,8 @@ We are a team composed by freshman students from Data Science (Gerard, Joan and 
   The problem was related to pin connection management and routes 🛤️. They explained how processors worked and how routes affed the consumption of the processors. The optimization of those routes adding a bus of signals instead of only one signal would make the trick, but we should know how to connect them in the most efficient way.
   
   We could not find this challenge appropiete for us since it was too technical to the few time we had (32 hours) although it was quite interesting.
+  
+  Update: After the teams that solved this challenge presented their solutions, I personally decided to give it a try since it envolves several techniques I would like to develop and I find this project appropiate to it, so I will shortly upload my approach towards solving this challenge
 </details>
 
 <details>
