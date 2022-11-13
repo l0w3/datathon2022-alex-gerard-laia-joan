@@ -50,3 +50,6 @@ After that data cleaning was done, we built a model to predict the likelyhood of
 After an in-depth analysis of the results, we got to the conclusion that given the nature of the data, predictions with that data "as it is" with the True and False labels counts being equal would not produce a well fitted model (Giving scores of about 20% of accuracy). If we used the whole dataset (>87000 False labels and < 28000 True labels) produced an overfitted model, giving a 70% of accuracy but always ansering the same (False).
 
 We believe that more carefuly chosen training variables and also joining several of them together would produce a better model, but individually, the produced model gives poor results.
+
+Even though data having that nature, we could extract some insights (e.i 3rd party contributors and the weight of the parcel were significant to the parcel delay, but not correlated totally. Those were some of the graphs we generated to get those insights.
+
