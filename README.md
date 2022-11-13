@@ -23,7 +23,7 @@ We are a team composed by freshman students from Data Science (Gerard, Joan and 
   
   We could not find this challenge appropiete for us since it was too technical to the few time we had (32 hours) although it was quite interesting.
   
-  Update: After the teams that solved this challenge presented their solutions, I personally decided to give it a try since it envolves several techniques I would like to develop and I find this project appropiate to it, so I will shortly upload my approach towards solving this challenge
+  🔜 Update: After the teams that solved this challenge presented their solutions, I personally decided to give it a try since it envolves several techniques I would like to develop and I find this project appropiate to it, so I will shortly upload my approach towards solving this challenge.
 </details>
 
 <details>
